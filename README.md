@@ -57,7 +57,7 @@ Control your smart home devices using brainwaves with the help of an EEG headset
    - Clone the project from GitHub:
      ```bash
       git clone https://github.com/jehadjoy55/code-of-project.git
-     cd brain-controlled-smart-home
+     cd code-of-project
      ```
 
 3. **Configure the System**
