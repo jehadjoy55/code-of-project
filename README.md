@@ -1,3 +1,4 @@
+#  INNOVATIVE MINDS 2025
 # Brain-Controlled Smart Home System
 
 Control your smart home devices using brainwaves with the help of an EEG headset and a Raspberry Pi. This system allows for hands-free and efficient management of home appliances.
