@@ -135,6 +135,8 @@ We welcome contributions! Follow these steps:
 
 ---
 
-## License
+## project for INNOVATIVE MINDS 2025
 
-This project is licensed under the [MIT License](LICENSE).
+
+
+
