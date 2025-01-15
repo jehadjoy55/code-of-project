@@ -1,0 +1,16 @@
+{
+    "devices": {
+        "light": 17,
+        "fan": 27,
+        "lock": 22,
+        "curtain": 23,
+        "thermostat": 24
+    },
+    "thresholds": {
+        "focus": 70,
+        "relaxation": 60,
+        "intensity": 80,
+        "calm": 65,
+        "overall_activity": 75
+    }
+}
